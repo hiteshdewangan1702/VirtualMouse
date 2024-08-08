@@ -1,0 +1,8 @@
+opencv-python-headless
+mediapipe
+pyautogui
+PyCaw
+google
+screen-brightness-control
+numpy
+comtypes
